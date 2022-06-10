@@ -5,6 +5,7 @@ import lombok.Data;
 import lombok.NoArgsConstructor;
 
 // Même Structure que l'entité
+
 // C'est juste un OBJET !!!!
 
 @Data

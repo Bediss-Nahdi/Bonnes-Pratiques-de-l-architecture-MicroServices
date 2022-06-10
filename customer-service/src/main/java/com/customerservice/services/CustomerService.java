@@ -10,6 +10,8 @@ public interface CustomerService {
 	CustomerReponseDTO save (CustomerRequestDTO customerRequestDTO);
 	CustomerReponseDTO getCustumer (String id);
 	CustomerReponseDTO updateCustumer (CustomerRequestDTO custumerRequestDTO);
-	List<CustomerReponseDTO> listCustumers(); 
+	List<CustomerReponseDTO> listCustumers();
+	CustomerReponseDTO updateCustumer(CustomerRequestDTO customerRequestDTO, String id); 
+	
 	
 }
