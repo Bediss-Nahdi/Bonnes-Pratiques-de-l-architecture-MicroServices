@@ -1,10 +1,12 @@
 package com.customerservice.services;
 
 import java.util.List;
+import java.util.UUID;
 import java.util.stream.Collectors;
 
 import javax.transaction.Transactional;
 
+import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 
 import com.customerservice.dto.CustomerReponseDTO;
@@ -17,17 +19,18 @@ import com.customerservice.repositories.CustomerRepository;
 @Transactional
 public class CustomerServiceImpl implements CustomerService{
 	
-	
+	@Autowired
 	private CustomerRepository custumerRepository;
-	
+	@Autowired
 	private CustomerMapper customerMapper;
 	
 
 
-	public CustomerServiceImpl(CustomerRepository custumerRepository, CustomerMapper customerMapper) {
-		this.custumerRepository = custumerRepository;
-		this.customerMapper = customerMapper;
-	}
+
+//	public CustomerServiceImpl(CustomerRepository custumerRepository, CustomerMapper customerMapper) {
+//		this.custumerRepository = custumerRepository;
+//		this.customerMapper = customerMapper;
+//	}
 
 	@Override
 	public CustomerReponseDTO save(CustomerRequestDTO customerRequestDTO) {
@@ -40,7 +43,7 @@ public class CustomerServiceImpl implements CustomerService{
 	@Override
 	public CustomerReponseDTO getCustumer(String id) {
 		Customer customer = custumerRepository.findById(id).get();
-		customerMapper.customerToCustumerReponseDTO(customer);
+		
 		
 		return customerMapper.customerToCustumerReponseDTO(customer);
 	}
@@ -56,7 +59,7 @@ public class CustomerServiceImpl implements CustomerService{
 	@Override
 	public CustomerReponseDTO updateCustumer(CustomerRequestDTO customerRequestDTO) {
 		Customer customer = customerMapper.customerRequestDTOToCustumer(customerRequestDTO);
-
+		
 		Customer savedCustomer =  custumerRepository.save(customer);
 		CustomerReponseDTO customerReponseDTO = customerMapper.customerToCustumerReponseDTO(savedCustomer);
 		return customerReponseDTO;
@@ -71,6 +74,11 @@ public class CustomerServiceImpl implements CustomerService{
 				.collect(Collectors.toList());
 		return customerReponseDTOs;
 	}
+
+	@Override
+    public void deleteCustomer(String id) {
+		custumerRepository.deleteById(id);
+    }
 	
 	
 

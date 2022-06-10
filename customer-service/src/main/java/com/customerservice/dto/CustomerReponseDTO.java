@@ -5,6 +5,7 @@ import lombok.Data;
 // ici la structure peut changer
 
 @Data
+
 public class CustomerReponseDTO {
 	private String id;
 

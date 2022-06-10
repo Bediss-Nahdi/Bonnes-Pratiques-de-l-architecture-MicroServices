@@ -1,6 +1,7 @@
 package com.customerservice.controllers;
 
 import java.util.List;
+import java.util.UUID;
 
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.PathVariable;
@@ -25,6 +26,7 @@ public class ControlerRestApi {
 		this.customerService = customerService;
 	}
 	
+	
 	@GetMapping(path="/customers")
 	public List<CustomerReponseDTO> getAllCustomer(){
 		return customerService.listCustumers();
@@ -32,6 +34,7 @@ public class ControlerRestApi {
 	
 	@PostMapping(path="/customers")
 	public CustomerReponseDTO save (@RequestBody CustomerRequestDTO customerRequestDTO) {
+		customerRequestDTO.setId(UUID.randomUUID().toString());
 		return customerService.save(customerRequestDTO);
 	}
 	
