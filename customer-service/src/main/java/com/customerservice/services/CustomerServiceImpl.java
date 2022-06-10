@@ -19,30 +19,30 @@ import com.customerservice.repositories.CustomerRepository;
 @Transactional
 public class CustomerServiceImpl implements CustomerService{
 	
-	@Autowired
-	private CustomerRepository custumerRepository;
-	@Autowired
+	
+	private CustomerRepository customerRepository;
+	
 	private CustomerMapper customerMapper;
 	
 
 
 
-//	public CustomerServiceImpl(CustomerRepository custumerRepository, CustomerMapper customerMapper) {
-//		this.custumerRepository = custumerRepository;
-//		this.customerMapper = customerMapper;
-//	}
+	public CustomerServiceImpl(CustomerRepository custumerRepository, CustomerMapper customerMapper) {
+		this.customerRepository = custumerRepository;
+		this.customerMapper = customerMapper;
+	}
 
 	@Override
 	public CustomerReponseDTO save(CustomerRequestDTO customerRequestDTO) {
 		Customer customer = customerMapper.customerRequestDTOToCustumer(customerRequestDTO);
-		Customer savedCustomer =  custumerRepository.save(customer);
+		Customer savedCustomer =  customerRepository.save(customer);
 		CustomerReponseDTO customerReponseDTO = customerMapper.customerToCustumerReponseDTO(savedCustomer);
 		return customerReponseDTO;
 	}
 
 	@Override
 	public CustomerReponseDTO getCustumer(String id) {
-		Customer customer = custumerRepository.findById(id).get();
+		Customer customer = customerRepository.findById(id).get();
 		
 		
 		return customerMapper.customerToCustumerReponseDTO(customer);
@@ -52,7 +52,7 @@ public class CustomerServiceImpl implements CustomerService{
 	public CustomerReponseDTO updateCustumer(CustomerRequestDTO customerRequestDTO, String id) {
 		Customer customer = customerMapper.customerRequestDTOToCustumer(customerRequestDTO);
 		customer.setId(id);
-		Customer savedCustomer =  custumerRepository.save(customer);
+		Customer savedCustomer =  customerRepository.save(customer);
 		CustomerReponseDTO customerReponseDTO = customerMapper.customerToCustumerReponseDTO(savedCustomer);
 		return customerReponseDTO;
 	}
@@ -60,14 +60,14 @@ public class CustomerServiceImpl implements CustomerService{
 	public CustomerReponseDTO updateCustumer(CustomerRequestDTO customerRequestDTO) {
 		Customer customer = customerMapper.customerRequestDTOToCustumer(customerRequestDTO);
 		
-		Customer savedCustomer =  custumerRepository.save(customer);
+		Customer savedCustomer =  customerRepository.save(customer);
 		CustomerReponseDTO customerReponseDTO = customerMapper.customerToCustumerReponseDTO(savedCustomer);
 		return customerReponseDTO;
 	}
 
 	@Override
 	public List<CustomerReponseDTO> listCustumers() {
-		List<Customer> customers = custumerRepository.findAll();
+		List<Customer> customers = customerRepository.findAll();
 		List<CustomerReponseDTO> customerReponseDTOs = 
 				customers.stream()
 				.map(cust->customerMapper.customerToCustumerReponseDTO(cust))
@@ -77,7 +77,7 @@ public class CustomerServiceImpl implements CustomerService{
 
 	@Override
     public void deleteCustomer(String id) {
-		custumerRepository.deleteById(id);
+		customerRepository.deleteById(id);
     }
 	
 	

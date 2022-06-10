@@ -1493,3 +1493,167 @@ Caused by: org.codehaus.plexus.util.xml.pull.XmlPullParserException: in epilog n
 2022-06-10 16:30:13,527 [Worker-118: Launching customer-service - CustomerServiceApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
 2022-06-10 16:30:13,527 [Worker-118: Launching customer-service - CustomerServiceApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
 2022-06-10 16:30:13,527 [Worker-118: Launching customer-service - CustomerServiceApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\nahdi\OneDrive\Bureau\00-GitBhub Projets\01-Bonnes Pratiques de l'architecture MicroServices\customer-service\src\test\resources
+2022-06-10 16:56:17,269 [Worker-126: Launching customer-service - CustomerServiceApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-06-10 16:56:17,269 [Worker-126: Launching customer-service - CustomerServiceApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-06-10 16:56:17,269 [Worker-126: Launching customer-service - CustomerServiceApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-06-10 16:56:17,275 [Worker-126: Launching customer-service - CustomerServiceApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-06-10 16:56:17,277 [Worker-126: Launching customer-service - CustomerServiceApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-06-10 16:56:17,277 [Worker-126: Launching customer-service - CustomerServiceApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-06-10 16:56:17,278 [Worker-126: Launching customer-service - CustomerServiceApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\nahdi\OneDrive\Bureau\00-GitBhub Projets\01-Bonnes Pratiques de l'architecture MicroServices\customer-service\src\test\resources
+2022-06-10 16:57:45,703 [Worker-129: Launching customer-service - CustomerServiceApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-06-10 16:57:45,704 [Worker-129: Launching customer-service - CustomerServiceApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-06-10 16:57:45,705 [Worker-129: Launching customer-service - CustomerServiceApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-06-10 16:57:45,726 [Worker-129: Launching customer-service - CustomerServiceApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-06-10 16:57:45,729 [Worker-129: Launching customer-service - CustomerServiceApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-06-10 16:57:45,729 [Worker-129: Launching customer-service - CustomerServiceApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-06-10 16:57:45,729 [Worker-129: Launching customer-service - CustomerServiceApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\nahdi\OneDrive\Bureau\00-GitBhub Projets\01-Bonnes Pratiques de l'architecture MicroServices\customer-service\src\test\resources
+2022-06-10 17:01:07,090 [Worker-132: Launching customer-service - CustomerServiceApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-06-10 17:01:07,090 [Worker-132: Launching customer-service - CustomerServiceApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-06-10 17:01:07,091 [Worker-132: Launching customer-service - CustomerServiceApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-06-10 17:01:07,119 [Worker-132: Launching customer-service - CustomerServiceApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-06-10 17:01:07,123 [Worker-132: Launching customer-service - CustomerServiceApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-06-10 17:01:07,123 [Worker-132: Launching customer-service - CustomerServiceApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-06-10 17:01:07,123 [Worker-132: Launching customer-service - CustomerServiceApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\nahdi\OneDrive\Bureau\00-GitBhub Projets\01-Bonnes Pratiques de l'architecture MicroServices\customer-service\src\test\resources
+2022-06-10 17:01:21,433 [Worker-134: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-06-10 17:01:21,433 [Worker-134: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-06-10 17:01:21,434 [Worker-134: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-06-10 17:01:21,478 [Worker-134: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-06-10 17:01:21,479 [Worker-134: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-06-10 17:01:21,479 [Worker-134: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-06-10 17:01:21,479 [Worker-134: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\nahdi\OneDrive\Bureau\00-GitBhub Projets\01-Bonnes Pratiques de l'architecture MicroServices\customer-service\src\test\resources
+2022-06-10 17:02:33,056 [Worker-135: Launching customer-service - CustomerServiceApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-06-10 17:02:33,056 [Worker-135: Launching customer-service - CustomerServiceApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-06-10 17:02:33,057 [Worker-135: Launching customer-service - CustomerServiceApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-06-10 17:02:33,069 [Worker-135: Launching customer-service - CustomerServiceApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-06-10 17:02:33,073 [Worker-135: Launching customer-service - CustomerServiceApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-06-10 17:02:33,073 [Worker-135: Launching customer-service - CustomerServiceApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-06-10 17:02:33,073 [Worker-135: Launching customer-service - CustomerServiceApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\nahdi\OneDrive\Bureau\00-GitBhub Projets\01-Bonnes Pratiques de l'architecture MicroServices\customer-service\src\test\resources
+2022-06-10 17:03:22,438 [Worker-126: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-06-10 17:03:22,438 [Worker-126: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-06-10 17:03:22,439 [Worker-126: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-06-10 17:03:22,448 [Worker-126: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-06-10 17:03:22,451 [Worker-126: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-06-10 17:03:22,451 [Worker-126: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-06-10 17:03:22,451 [Worker-126: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\nahdi\OneDrive\Bureau\00-GitBhub Projets\01-Bonnes Pratiques de l'architecture MicroServices\customer-service\src\test\resources
+2022-06-10 17:04:38,104 [Worker-126: Launching customer-service - CustomerServiceApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-06-10 17:04:38,104 [Worker-126: Launching customer-service - CustomerServiceApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-06-10 17:04:38,105 [Worker-126: Launching customer-service - CustomerServiceApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-06-10 17:04:38,119 [Worker-126: Launching customer-service - CustomerServiceApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-06-10 17:04:38,122 [Worker-126: Launching customer-service - CustomerServiceApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-06-10 17:04:38,122 [Worker-126: Launching customer-service - CustomerServiceApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-06-10 17:04:38,122 [Worker-126: Launching customer-service - CustomerServiceApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\nahdi\OneDrive\Bureau\00-GitBhub Projets\01-Bonnes Pratiques de l'architecture MicroServices\customer-service\src\test\resources
+2022-06-10 17:05:55,960 [Worker-132: Launching customer-service - CustomerServiceApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-06-10 17:05:55,960 [Worker-132: Launching customer-service - CustomerServiceApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-06-10 17:05:55,961 [Worker-132: Launching customer-service - CustomerServiceApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-06-10 17:05:55,969 [Worker-132: Launching customer-service - CustomerServiceApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-06-10 17:05:55,971 [Worker-132: Launching customer-service - CustomerServiceApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-06-10 17:05:55,971 [Worker-132: Launching customer-service - CustomerServiceApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-06-10 17:05:55,971 [Worker-132: Launching customer-service - CustomerServiceApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\nahdi\OneDrive\Bureau\00-GitBhub Projets\01-Bonnes Pratiques de l'architecture MicroServices\customer-service\src\test\resources
+2022-06-10 17:06:59,575 [Worker-126: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.customer-service:customer-service:0.0.1-SNAPSHOT @ C:\Users\nahdi\OneDrive\Bureau\00-GitBhub Projets\01-Bonnes Pratiques de l'architecture MicroServices\customer-service\pom.xml.
+2022-06-10 17:06:59,726 [Worker-126: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.mapstruct:mapstruct:jar:${org.mapstruct.version} is missing, no dependency information available
+2022-06-10 17:07:00,571 [Worker-126: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-06-10 17:07:00,571 [Worker-126: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-06-10 17:07:00,577 [Worker-126: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-06-10 17:07:00,600 [Worker-126: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-06-10 17:07:00,601 [Worker-126: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-06-10 17:07:00,602 [Worker-126: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-06-10 17:07:00,602 [Worker-126: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\nahdi\OneDrive\Bureau\00-GitBhub Projets\01-Bonnes Pratiques de l'architecture MicroServices\customer-service\src\test\resources
+2022-06-10 17:07:01,583 [Worker-136: Download sources and javadoc] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.mapstruct:mapstruct:jar:${org.mapstruct.version} is missing, no dependency information available
+2022-06-10 17:07:01,858 [Worker-136: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/mapstruct/mapstruct/${org.mapstruct.version}/mapstruct-${org.mapstruct.version}-javadoc.jar
+2022-06-10 17:07:01,866 [Worker-136: Download sources and javadoc] ERROR o.e.m.j.internal.DownloadSourcesJob - Could not download javadoc for org.mapstruct:mapstruct:${org.mapstruct.version}
+org.eclipse.core.runtime.CoreException: Could not resolve artifact org.mapstruct:mapstruct:jar:javadoc:${org.mapstruct.version}
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.lambda$4(MavenImpl.java:828)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:182)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:117)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:103)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.resolve(MavenImpl.java:796)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.resolve(MavenImpl.java:773)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.download(DownloadSourcesJob.java:311)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadAttachments(DownloadSourcesJob.java:297)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadMaven(DownloadSourcesJob.java:255)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadFilesAndPopulateToUpdate(DownloadSourcesJob.java:223)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.lambda$0(DownloadSourcesJob.java:152)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:182)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:156)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:103)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.execute(MavenImpl.java:1416)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.run(DownloadSourcesJob.java:152)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+2022-06-10 17:07:13,602 [Worker-126: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.customer-service:customer-service:0.0.1-SNAPSHOT @ C:\Users\nahdi\OneDrive\Bureau\00-GitBhub Projets\01-Bonnes Pratiques de l'architecture MicroServices\customer-service\pom.xml.
+2022-06-10 17:07:14,086 [Worker-126: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-06-10 17:07:14,086 [Worker-126: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-06-10 17:07:14,088 [Worker-126: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-06-10 17:07:14,088 [Worker-126: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-06-10 17:07:14,089 [Worker-126: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-06-10 17:07:14,089 [Worker-126: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-06-10 17:07:14,089 [Worker-126: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\nahdi\OneDrive\Bureau\00-GitBhub Projets\01-Bonnes Pratiques de l'architecture MicroServices\customer-service\src\test\resources
+2022-06-10 17:07:15,951 [Worker-126: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-06-10 17:07:15,952 [Worker-126: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-06-10 17:07:15,952 [Worker-126: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-06-10 17:07:15,961 [Worker-126: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-06-10 17:07:15,962 [Worker-126: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-06-10 17:07:15,962 [Worker-126: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-06-10 17:07:15,962 [Worker-126: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\nahdi\OneDrive\Bureau\00-GitBhub Projets\01-Bonnes Pratiques de l'architecture MicroServices\customer-service\src\test\resources
+2022-06-10 17:07:25,432 [Worker-140: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.customer-service:customer-service:0.0.1-SNAPSHOT @ C:\Users\nahdi\OneDrive\Bureau\00-GitBhub Projets\01-Bonnes Pratiques de l'architecture MicroServices\customer-service\pom.xml.
+2022-06-10 17:07:25,580 [Worker-140: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.mapstruct:mapstruct:jar:${org.mapstruct.version} is missing, no dependency information available
+2022-06-10 17:07:25,972 [Worker-140: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-06-10 17:07:25,972 [Worker-140: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-06-10 17:07:25,973 [Worker-140: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-06-10 17:07:25,974 [Worker-140: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-06-10 17:07:25,975 [Worker-140: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-06-10 17:07:25,975 [Worker-140: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-06-10 17:07:25,976 [Worker-140: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\nahdi\OneDrive\Bureau\00-GitBhub Projets\01-Bonnes Pratiques de l'architecture MicroServices\customer-service\src\test\resources
+2022-06-10 17:07:29,863 [Worker-136: Launching customer-service - CustomerServiceApplication] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.mapstruct:mapstruct:jar:${org.mapstruct.version} is missing, no dependency information available
+2022-06-10 17:08:31,980 [Worker-132: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2022-06-10 17:08:32,235 [Worker-132: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.customer-service:customer-service:0.0.1-SNAPSHOT @ C:\Users\nahdi\OneDrive\Bureau\00-GitBhub Projets\01-Bonnes Pratiques de l'architecture MicroServices\customer-service\pom.xml.
+2022-06-10 17:08:32,377 [Worker-132: Updating Maven Project] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.mapstruct:mapstruct:jar:${org.mapstruct.version} is missing, no dependency information available
+2022-06-10 17:08:32,796 [Worker-132: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /customer-service/src/main/java
+2022-06-10 17:08:32,797 [Worker-132: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /customer-service/src/main/resources
+2022-06-10 17:08:32,797 [Worker-132: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /customer-service/src/main/resources
+2022-06-10 17:08:32,798 [Worker-132: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /customer-service/src/test/java
+2022-06-10 17:08:33,052 [Worker-132: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 1 sec
+2022-06-10 17:08:33,949 [Worker-139: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.mapstruct:mapstruct:jar:${org.mapstruct.version} is missing, no dependency information available
+2022-06-10 17:08:34,074 [Worker-139: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-06-10 17:08:34,074 [Worker-139: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-06-10 17:08:34,075 [Worker-139: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-06-10 17:08:34,094 [Worker-139: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-06-10 17:08:34,098 [Worker-139: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-06-10 17:08:34,099 [Worker-139: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-06-10 17:08:34,099 [Worker-139: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\nahdi\OneDrive\Bureau\00-GitBhub Projets\01-Bonnes Pratiques de l'architecture MicroServices\customer-service\src\test\resources
+2022-06-10 17:09:02,340 [Worker-126: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.customer-service:customer-service:0.0.1-SNAPSHOT @ C:\Users\nahdi\OneDrive\Bureau\00-GitBhub Projets\01-Bonnes Pratiques de l'architecture MicroServices\customer-service\pom.xml.
+2022-06-10 17:09:02,951 [Worker-126: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-06-10 17:09:02,951 [Worker-126: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-06-10 17:09:02,952 [Worker-126: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-06-10 17:09:02,953 [Worker-126: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-06-10 17:09:02,954 [Worker-126: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-06-10 17:09:02,955 [Worker-126: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-06-10 17:09:02,955 [Worker-126: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\nahdi\OneDrive\Bureau\00-GitBhub Projets\01-Bonnes Pratiques de l'architecture MicroServices\customer-service\src\test\resources
+2022-06-10 17:09:04,596 [Worker-126: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-06-10 17:09:04,596 [Worker-126: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-06-10 17:09:04,597 [Worker-126: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-06-10 17:09:04,605 [Worker-126: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-06-10 17:09:04,606 [Worker-126: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-06-10 17:09:04,607 [Worker-126: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-06-10 17:09:04,607 [Worker-126: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\nahdi\OneDrive\Bureau\00-GitBhub Projets\01-Bonnes Pratiques de l'architecture MicroServices\customer-service\src\test\resources
+2022-06-10 17:09:12,787 [Worker-139: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2022-06-10 17:09:13,002 [Worker-139: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.customer-service:customer-service:0.0.1-SNAPSHOT @ C:\Users\nahdi\OneDrive\Bureau\00-GitBhub Projets\01-Bonnes Pratiques de l'architecture MicroServices\customer-service\pom.xml.
+2022-06-10 17:09:13,521 [Worker-139: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /customer-service/src/main/java
+2022-06-10 17:09:13,521 [Worker-139: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /customer-service/src/main/resources
+2022-06-10 17:09:13,522 [Worker-139: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /customer-service/src/main/resources
+2022-06-10 17:09:13,522 [Worker-139: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /customer-service/src/test/java
+2022-06-10 17:09:13,741 [Worker-139: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 0 sec
+2022-06-10 17:09:14,437 [Worker-132: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-06-10 17:09:14,437 [Worker-132: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-06-10 17:09:14,437 [Worker-132: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-06-10 17:09:14,450 [Worker-132: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-06-10 17:09:14,452 [Worker-132: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-06-10 17:09:14,452 [Worker-132: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-06-10 17:09:14,452 [Worker-132: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\nahdi\OneDrive\Bureau\00-GitBhub Projets\01-Bonnes Pratiques de l'architecture MicroServices\customer-service\src\test\resources
+2022-06-10 17:10:07,395 [Worker-132: Launching customer-service - CustomerServiceApplication] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.customer-service:customer-service:1.0.0-SNAPSHOT @ C:\Users\nahdi\OneDrive\Bureau\00-GitBhub Projets\01-Bonnes Pratiques de l'architecture MicroServices\customer-service\pom.xml.
+2022-06-10 17:10:07,913 [Worker-132: Launching customer-service - CustomerServiceApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-06-10 17:10:07,913 [Worker-132: Launching customer-service - CustomerServiceApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-06-10 17:10:07,914 [Worker-132: Launching customer-service - CustomerServiceApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-06-10 17:10:07,915 [Worker-132: Launching customer-service - CustomerServiceApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-06-10 17:10:07,917 [Worker-132: Launching customer-service - CustomerServiceApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-06-10 17:10:07,917 [Worker-132: Launching customer-service - CustomerServiceApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-06-10 17:10:07,917 [Worker-132: Launching customer-service - CustomerServiceApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\nahdi\OneDrive\Bureau\00-GitBhub Projets\01-Bonnes Pratiques de l'architecture MicroServices\customer-service\src\test\resources
